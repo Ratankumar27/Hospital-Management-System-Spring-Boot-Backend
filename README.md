@@ -13,7 +13,7 @@
 
   <div class="section">
       <h2>🧭 Overview</h2>
-      <p>The Hospital Management System (HMS) backend is a <strong>Spring Boot–powered microservice</strong> that models and manages core hospital data operations. It demonstrates how to design highly relational, transactional, and modular backend systems using Java and modern Spring frameworks.</p>
+      <p>The Hospital Management System (HMS) backend is a <strong>Spring Boot–powered microservice</strong> that models and manages core hospital data operations. It demonstrates how to design highly relational, transactional, and modular backend systems using Java and modern Spring frameworks. At last of this read you will find the screenshot of relations in MySQL.</p>
 
   <p>The system handles:</p>
   <ul>
@@ -228,6 +228,10 @@ hospitalManagement/<br>
 │           └── InsuranceTests.java<br>
 ├── pom.xml<br>
 └── README.html<br>
+</div>
+<div>
+   <h3>Relations</h3>
+    <img src = ""/>
 </div>
 </body>
 </html>
