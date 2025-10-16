@@ -231,7 +231,7 @@ hospitalManagement/<br>
 </div>
 <div>
    <h3>Relations</h3>
-    <img src = ""/>
+    <img src = "Image of relation in MySQL.png"/>
 </div>
 </body>
 </html>
